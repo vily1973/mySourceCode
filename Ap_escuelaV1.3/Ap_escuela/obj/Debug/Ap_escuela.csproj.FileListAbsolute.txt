@@ -1,0 +1,13 @@
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.exe.config
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.pdb
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.Properties.Resources.resources
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.pdb
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.Form1.resources
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.Buscar.resources
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.Registro_Usuarios.resources
+C:\Users\Juan Pablo\Desktop\SistemaRegistro\Ap_escuela\Ap_escuela\obj\Debug\Ap_escuela.Autentificacion.resources

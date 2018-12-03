@@ -1,0 +1,12 @@
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\bin\Release\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\bin\Release\Ap_escuela.pdb
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.Autentificacion.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.Buscar.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.Form1.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.Properties.Resources.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.CrearUsuario.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Release\Ap_escuela.pdb

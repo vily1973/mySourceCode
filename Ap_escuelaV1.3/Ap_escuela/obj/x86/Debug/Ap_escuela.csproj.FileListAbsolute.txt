@@ -1,0 +1,29 @@
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.pdb
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Autentificacion.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Buscar.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Form1.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Properties.Resources.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.CrearUsuario.resources
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.exe
+C:\Users\Juan Pablo\Desktop\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.pdb
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.exe
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.pdb
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\bin\Debug\Ap_escuela.exe
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\bin\Debug\Ap_escuela.pdb
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.Autentificacion.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.Properties.Resources.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.CrearUsuario.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.GenerateResource.cache
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.CoreCompileInputs.cache
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\bin\Debug\Ap_escuela.exe.config
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.MenuForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.CrearCuentaForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.IngresarAlumnoForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.BuscarAlumnoForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.ModificarAlumnoForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.EliminarAlumnoForm.resources
+C:\Users\co185016\Documents\Visual Studio 2012\Ap_escuelaV1.2\Ap_escuela\obj\x86\Debug\Ap_escuela.csprojAssemblyReference.cache
